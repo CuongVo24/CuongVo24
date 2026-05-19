@@ -65,13 +65,14 @@ Dưới đây là một số repository tâm huyết của mình:
 ### 📊 Thống kê GitHub (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CuongVo24&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Cường Võ's GitHub Stats" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuongVo24&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuongVo24&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=CuongVo24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=CuongVo24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuongVo24&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CuongVo24&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
