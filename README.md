@@ -19,7 +19,7 @@
 - 🎓 Mình là sinh viên năm 2 ngành **Công nghệ Thông tin** tại **Trường Đại học Khoa học Tự nhiên** (KHTN - VNUHCM).
 - 🔐 Định hướng chuyên ngành tương lai của mình là **An toàn Thông tin (Cybersecurity)** hoặc **Mạng Máy tính (Computer Networks)**.
 - 🎯 **Mục tiêu nghề nghiệp:** Trở thành một **Red Teamer** chuyên nghiệp làm việc tại các tập đoàn bảo mật hàng đầu trong nước như **VCS (Viettel Cyber Security), VSEC, NCS** hoặc làm remote cho các công ty nước ngoài.
-- 🎵 **Sự thật thú vị (Fun Fact):** Ngoài đam mê gõ phím và tìm hiểu bảo mật, mình còn là một **nghệ sĩ âm nhạc độc lập** (Indie Artist) đang bắt đầu từ con số 0. Mọi người có thể theo dõi hành trình sáng tác nhạc của mình tại [ComposeMusic_CuongVo](https://github.com/CuongVo24/ComposeMusic_CuongVo) nhé!
+- 🎵 **Sự thật thú vị (Fun Fact):** Ngoài đam mê gõ phím và tìm hiểu bảo mật, mình còn là một **nghệ sĩ âm nhạc độc lập** (Indie Artist) đang bắt đầu từ con số 0. Mình có viết 1 số bài nhạc, cũng đang vừa học hỏi vừa viết thêm, vửa giải tỏa cảm xúc mà khi buồn có cái nghe cũng dui dui =))) . Mọi người có thể theo dõi hành trình sáng tác nhạc của mình tại [ComposeMusic_CuongVo](https://github.com/CuongVo24/ComposeMusic_CuongVo) nhé!
 
 ---
 
