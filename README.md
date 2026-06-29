@@ -49,6 +49,18 @@ Workspace chạy trên trình duyệt giúp số hóa & chuẩn hóa báo cáo h
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🧠 [DesignEverything](https://github.com/CuongVo24/DesignEverything)
+> **Vai trò: Tác giả & Kiến trúc sư (Solo Dev)**
+
+Bộ phương pháp **"thiết kế tài liệu nền móng trước khi code"** dành cho mọi dự án phần mềm — đặc biệt hữu ích trong kỷ nguyên **vibe coding**. DesignEverything cung cấp kịch bản phỏng vấn có cấu trúc, template tài liệu, taxonomy, gate policy và mỏ neo truy vết, giúp biến câu trả lời đời thường của người dùng thành thư mục `docs/` chuẩn chỉnh. Sản phẩm chạy trên lưng các AI coding agent có sẵn (Claude Code, Cursor, Codex, AGENTS.md…) thông qua kiến trúc **Lõi béo – Adapter gầy**.
+
+`TypeScript` `YAML` `Zod` `Vitest` `Claude Code Hooks` `AGENTS.md`
+
+</td>
+</tr>
 </table>
 
 ---
